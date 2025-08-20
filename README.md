@@ -29,7 +29,8 @@ A PHP-based web application designed to streamline the borrowing and returning o
 
 
 ## Live Demo
-[View Live Demo](https://kfpriego01.github.io/bootstrap-php/) <!-- Update this URL once GitHub Pages is set up -->
+[View Live Demo] https://kfpriego01.github.io/bootstrap-project/
+
 
 
 
